@@ -1,4 +1,4 @@
-![alt text](img/dashboard1.png)
+![alt text](img/logo-javascript-png-other-resolutions-240-240-pixels-240.png)
 
 # Indonesia JavaScript 2019 in Number
 It contains data visualization and data analysis about JavaScript's Ecosystem in Indonesia.
